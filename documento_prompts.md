@@ -103,4 +103,4 @@ El resultado final es una aplicación de Lista de Tareas en Python que funciona 
 
 ## Enlace al repositorio de GitHub
 
-https://github.com/AlissonValencia/IA_taller1/blob/main/ia_Taller1_Prompts_enginering
+https://github.com/AlissonValencia/IA_Taller1_Prompts_Enginering.git
