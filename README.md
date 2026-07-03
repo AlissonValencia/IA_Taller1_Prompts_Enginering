@@ -1,2 +1,2 @@
-# IA_taller1
+# IA_talleres
 Actividades de Inteligencia Artificial
